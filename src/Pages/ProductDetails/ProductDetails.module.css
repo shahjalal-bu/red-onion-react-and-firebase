@@ -1,0 +1,24 @@
+.productBtn{
+    padding: 15px 20px;
+    background: red;
+    color: #fff;
+    font-size: 2.5rem;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+.controllerBtn{
+    padding: 10px 20px;
+    border: 1px solid gray;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+
+}
+
+.controller{
+    margin: 0 10px;
+    font-size: 2.5rem !important;
+    cursor: pointer;
+}

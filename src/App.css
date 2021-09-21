@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+  color: #000;
+}
+a:hover,
+a:focus {
+  color: rgba(0, 0, 0, 0.719) !important;
+}
+
+.customBtn {
+  border-radius: 30px;
+  padding: 5px 15px !important;
+  margin-left: 10px;
+  background: red;
+  border: 0;
+}
+.customBtn:hover,
+.customBtn:focus {
+  background: rgba(255, 0, 0, 0.8);
+  border: 0;
+}
+
